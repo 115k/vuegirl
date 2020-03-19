@@ -1,0 +1,4 @@
+export const SET_HEAD_TITLE = 'SET_HEAD_TITLE'
+export const SET_HIDE_HEAD = 'SET_HIDE_HEAD'
+export const SET_TITLE_OPTIONS = 'SET_TITLE_OPTIONS'
+export const SET_HIDEFOOT = 'SET_HIDEFOOT'

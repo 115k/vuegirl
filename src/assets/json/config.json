@@ -1,0 +1,62 @@
+{
+  "data": {
+    "config": [
+      {
+        "content": "",
+        "title": "这是什么鬼啊？",
+        "show": false,
+        "comfirmTxt": "我唔知吖",
+        "bgimg": "img/content/cat.gif"
+      },
+      {
+        "content": "",
+        "title": "唔知？",
+        "show": true,
+        "comfirmTxt": "继续",
+        "bgimg": "img/content/1.jpeg"
+      },
+      {
+        "content": "",
+        "title": "呐~呐~系我吖，美丽动人的我",
+        "show": true,
+        "comfirmTxt": "kill it",
+        "bgimg": "img/content/2.gif"
+      },
+      {
+        "content": "",
+        "title": "系唔系超可爱咧~",
+        "show": true,
+        "comfirmTxt": "假装看不见",
+        "bgimg": "img/content/3.gif"
+      },
+      {
+        "content": "",
+        "title": "是不是很想揍我的吖",
+        "show": true,
+        "comfirmTxt": "揍一顿",
+        "bgimg": "img/content/4.jpg"
+      },
+      {
+        "content": "",
+        "title": "",
+        "show": true,
+        "comfirmTxt": "揍一顿",
+        "bgimg": "img/content/5.gif"
+      },
+      {
+        "content": "",
+        "title": "啊？叫我不要跑啊",
+        "show": true,
+        "comfirmTxt": "揍一顿",
+        "bgimg": "img/content/7.jpg"
+      },
+      {
+        "content": "",
+        "title": "吖，词穷了",
+        "show": true,
+        "comfirmTxt": "揍一顿",
+        "bgimg": "img/content/6.jpg"
+      }
+    ]
+  }
+}
